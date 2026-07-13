@@ -9,6 +9,7 @@ miles south of the Colorado Renaissance Festival.
 - `business-plan.md` — operating, marketing, permitting, and financial plan
 - `financial-model.csv` — auditable scenario summary
 - `index.html` — public campaign concept and interactive break-even calculator
+- `scheme/` — illustrated owner-facing business and launch plan
 - `styles.css` / `script.js` — site presentation and calculator behavior
 - `assets/` — original campaign illustrations
 

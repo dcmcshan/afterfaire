@@ -25,8 +25,8 @@ chasing volume:
 - Supper & Camp admission: **$179 early / $189 standard**
 - Target mix: **40% supper / 60% overnight**
 - Base demand: **26 paid guests per night**
-- Base projected operating profit: **about $5,500** over eight Saturdays
-- Base operating margin: **about 17%**
+- Base projected operating profit: **about $6,764** over eight Saturdays
+- Base operating margin: **about 21%**
 - Break-even: **about 20 paid guests per night**
 - Expansion: add selected Sundays only after four consecutive profitable nights;
   evaluate a Palmer Lake shuttle only after parking-constrained sellouts prove demand.
@@ -34,6 +34,23 @@ chasing volume:
 The financial model includes modest operator/event-lead pay in nightly staffing,
 but not a full annual founder salary. Profit is therefore a return on ownership,
 property use, and pre-season risk—not compensation for a full-time job.
+
+### 2027 objective
+
+Prove that AfterFaire can deliver a safe, repeatable, profitable second chapter for
+Faire guests before increasing capacity. The first season is successful if eight
+approved nights produce at least **$6,000 of operating profit before owner draw**,
+maintain a **4.5/5 guest rating**, create no unresolved safety or neighbor issue, and
+leave a documented operating playbook for 2028. If the event cannot meet those
+standards at 30 guests, it should not grow by adding production complexity.
+
+### Capital required to reach opening night
+
+Target **$10,000 of opening working capital**, before any property rent, venue
+deposit, or unusual permit condition. The current $7,000 pre-season budget covers
+the planned setup; the additional $3,000 protects one early cancellation, refund
+exposure, or vendor deposit without forcing unsafe cost-cutting. This is a planning
+target, not a commitment to spend before approvals.
 
 ## 2. The opportunity
 
@@ -267,6 +284,11 @@ Round the mathematical threshold up to **20 paid guests per night**. Because wea
 and cancellation risk are real, the launch gate remains stricter: at least **21 paid
 or deposit-backed reservations per committed night** before nonrefundable spending.
 
+The base-case profit is **$6,764**, not $5,500: eight nights at 26 guests, using the
+CSV assumptions of $152 blended ticket revenue, $30.06 variable cost, $1,450 nightly
+fixed cost, and $7,000 of pre-season fixed cost. The earlier $5,500 figure was a
+rounded planning placeholder and should not be used for fundraising or approval.
+
 ### Cash policy
 
 - Sell refundable reservation deposits first; convert them only after permit gates.
@@ -486,6 +508,40 @@ Before spending, measure or decide:
 
 Any answer can change the economics. Update the CSV and calculator before approving
 nonrefundable costs.
+
+## 14. Next 30 days
+
+The next month should produce evidence, not more concept work. The project is ready
+for a formal permit/application phase only when these five outputs exist:
+
+| Workstream | Deliverable | Pass condition |
+|---|---|---|
+| Property | Signed site-use term sheet | Dates, rent or revenue share, camping rights, parking, utilities, cancellation, and owner responsibilities are explicit |
+| Site | Scaled site and parking sketch | 30 guests, 16 guest vehicles, emergency lane, toilets, water, camp plots, exits, and weather refuge fit without assumption |
+| Regulation | Agency pre-application notes | County, fire, food, camping/sanitation, alcohol, and traffic pathways have named contacts and written next steps |
+| Demand | 10-question customer survey plus waitlist landing page | At least 50 qualified responses and 25 people selecting a specific 2027 date and pass type |
+| Economics | Vendor quote sheet and revised CSV | Property cost, permits, insurance, food, labor, sanitation, and cancellation exposure are included; sellout margin remains at least 20% |
+
+### Recommended sequence
+
+1. Confirm the property agreement and measure the actual access, parking, water,
+   power, sanitation, and camping conditions.
+2. Send the scaled sketch and event description to Douglas County and Larkspur Fire
+   for a pre-application determination before announcing dates or taking deposits.
+3. Get written quotes from the food lead, beverage operator, performers, security,
+   sanitation provider, insurance broker, and any shuttle operator.
+4. Run the customer survey through Colorado Renaissance Faire-adjacent communities,
+   performer networks, and personal referrals. Ask for a refundable expression of
+   interest, not a ticket sale.
+5. Reprice the model with actual quotes. If break-even exceeds 21 guests per night,
+   remove camping or alcohol complexity before raising the ticket price.
+
+### The first decision meeting
+
+The first formal meeting should answer one question: **is the 30-person version
+permittable and economically viable at this property?** Do not decide the shuttle,
+Sunday dates, permanent improvements, large entertainment, or merchandise until that
+answer is yes. The small version is the experiment; everything else is optional.
 
 ## Sources consulted
 
