@@ -15,9 +15,9 @@ if (calculator) {
   const update = () => {
     const guests = Number(input.value);
     const nights = 8;
-    const revenuePerGuest = 152;
-    const variablePerGuest = 30.06;
-    const fixed = 7000 + (1450 * nights);
+    const revenuePerGuest = 214;
+    const variablePerGuest = 40.36;
+    const fixed = 3000 + (650 * nights);
     const revenue = guests * nights * revenuePerGuest;
     const profit = revenue - (guests * nights * variablePerGuest) - fixed;
     const margin = revenue === 0 ? 0 : profit / revenue;

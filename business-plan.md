@@ -12,22 +12,24 @@
 
 ## 1. Executive decision
 
-Launch as a **24-person garden salon**, not as a festival or conventional afterparty.
-Commit initially to the eight Saturdays of the expected 2027 Faire season, targeting
-24–26 paid guests and capped at **30 paid guests per night**. Do not sell walk-up
-admission. The property has approximately five acres, which provides room for
-separation and atmosphere; parking and approvals—not acreage—set the sale cap.
+Launch as a **ten-person private garden table**, not as a festival or conventional
+afterparty. Commit initially to the eight Saturdays of the expected 2027 Faire season,
+targeting eight paid guests and capped at **10 paid guests per night**. Do not sell
+walk-up admission. The property has approximately five acres, which provides room for
+separation and atmosphere; the ten-person cap is an economic and hosting choice, not
+a claim about the property's legal occupancy.
 
 The plan makes money by selling a scarce, well-hosted experience rather than by
 chasing volume:
 
-- Garden Supper admission: **$99 early / $109 standard**
-- Supper & Camp admission: **$179 early / $189 standard**
+- Garden Supper admission: **$149 early / $159 standard**
+- Supper & Camp admission: **$249 early / $259 standard**
 - Target mix: **40% supper / 60% overnight**
-- Base demand: **26 paid guests per night**
-- Base projected operating profit: **about $6,764** over eight Saturdays
+- Base demand: **8 paid guests per night**
+- Base projected operating profit: **about $2,913** over eight Saturdays
 - Base operating margin: **about 21%**
-- Break-even: **about 20 paid guests per night**
+- Mathematical break-even: **about 6 paid guests per night**
+- Management operating gate: **7 paid or deposit-backed guests**
 - Expansion: add selected Sundays only after four consecutive profitable nights;
   evaluate a Palmer Lake shuttle only after parking-constrained sellouts prove demand.
 
@@ -39,16 +41,17 @@ property use, and pre-season risk—not compensation for a full-time job.
 
 Prove that AfterFaire can deliver a safe, repeatable, profitable second chapter for
 Faire guests before increasing capacity. The first season is successful if eight
-approved nights produce at least **$6,000 of operating profit before owner draw**,
-maintain a **4.5/5 guest rating**, create no unresolved safety or neighbor issue, and
-leave a documented operating playbook for 2028. If the event cannot meet those
-standards at 30 guests, it should not grow by adding production complexity.
+approved nights average at least eight guests, produce at least **$2,500 of operating
+profit before owner draw**, maintain a **4.5/5 guest rating**, create no unresolved
+safety or neighbor issue, and leave a documented operating playbook for 2028. If the
+event cannot meet those standards at 10 guests, it should not grow by adding
+production complexity.
 
 ### Capital required to reach opening night
 
-Target **$10,000 of opening working capital**, before any property rent, venue
-deposit, or unusual permit condition. The current $7,000 pre-season budget covers
-the planned setup; the additional $3,000 protects one early cancellation, refund
+Target **$5,000 of opening working capital**, before any property rent, venue
+deposit, or unusual permit condition. The current $3,000 pre-season budget covers
+the planned setup; the additional $2,000 protects one early cancellation, refund
 exposure, or vendor deposit without forcing unsafe cost-cutting. This is a planning
 target, not a commitment to spend before approvals.
 
@@ -65,9 +68,9 @@ AfterFaire does not compete with the Faire. It sells the missing next chapter:
 
 **“The Faire closes. Your night does not have to.”**
 
-At 26 guests per night, AfterFaire needs to convert far less than 1% of an average Faire
-day if seasonal attendance again exceeds 100,000. That is a plausible niche, while
-the reservation cap preserves the garden, neighbors, and guest experience.
+At 10 guests per night, AfterFaire needs only 80 paid visits across the whole season.
+That is a plausible niche if the premium price is validated, while the reservation cap
+preserves the garden, neighbors, and guest experience.
 
 ### Primary customers
 
@@ -105,14 +108,14 @@ enough to feel intentional, and calm enough to recover from a crowded day.
 
 ### Included and add-on offers
 
-**Garden Supper — $99 early / $109 standard**
+**Garden Supper — $149 early / $159 standard**
 
 - Reservation and parking credential
 - Merveilles smokehouse supper, music, dance lesson, hosted games, water, and quiet garden access
 - Other beverages purchased separately from the authorized operator, if approved
 - Departure by 11:00 p.m.
 
-**Supper & Camp — $179 early / $189 standard**
+**Supper & Camp — $249 early / $259 standard**
 
 - Everything in Garden Supper
 - One primitive tent place per person within a reserved party plot
@@ -122,13 +125,14 @@ enough to feel intentional, and calm enough to recover from a crowded day.
 **Group bundles** should be used to improve vehicle occupancy, not discount the
 experience indiscriminately:
 
-- Supper Table for Four: 4 Garden Supper passes, **one parking credential**, $416 standard
-- Camp Pair: 2 Supper & Camp passes, **one parking credential**, $368 founding price
+- Supper Table for Four: 4 Garden Supper passes, **one parking credential**, $636 standard
+- Camp Pair: 2 Supper & Camp passes, **one parking credential**, $498 founding price
 - No single-person discount; solo guests are welcomed and intentionally hosted.
 
 ### Food, beverage, and activities
 
-At 20–30 guests, a food vendor cannot depend on walk-up volume. Supper is therefore
+At 6–10 guests, food service must be reservation-counted and deliberately premium.
+Supper is therefore
 prepaid, produced through the Merveilles smokehouse, and included in admission:
 
 - Serve one reservation-counted smokehouse board: a rotating smoked meat, smoked
@@ -138,7 +142,7 @@ prepaid, produced through the Merveilles smokehouse, and included in admission:
   retail-food plan, with time/temperature logs and a certified food-protection manager.
 - Contract a legally authorized beverage caterer/operator. Offer strong nonalcoholic
   choices as a first-class product, not an afterthought.
-- Budget food at $18 per confirmed cover. Treat any separately licensed beverage
+- Budget food at $24 per confirmed cover. Treat any separately licensed beverage
   commission as upside; the base model assumes none.
 - Activities included in admission: dance lesson, music, story circle, lawn/table games.
 - Paid extras: short craft workshop, portrait sketch, premium game tournament, or
@@ -150,10 +154,10 @@ Parking—not theoretical audience demand—sets the opening scale.
 
 ### Launch operating envelope
 
-- **30 paid guests maximum**
-- **16 guest-vehicle credentials maximum**, provisional
-- **6 operations/vendor/emergency vehicle spaces**, provisional
-- Target vehicle occupancy: **1.9+ paid guests per guest vehicle**
+- **10 paid guests maximum**
+- **6 guest-vehicle credentials maximum**, provisional
+- **3 operations/vendor/emergency vehicle spaces**, provisional
+- Target vehicle occupancy: **1.7+ paid guests per guest vehicle**
 - One parking credential included per reservation party, not per ticket
 - No street parking, overflow promises, rideshare loitering, or walk-ups
 - Guest arrival and departure directions disclosed only after purchase
@@ -182,10 +186,10 @@ generic festival grid:
 | Arrival edge / Indi Drive access | Credential check, vehicle queue, emergency lane; exact route withheld publicly |
 | Chateau and Patio | Smokehouse finishing/service, dish control, staff base, severe-weather refuge if approved |
 | Garden Zone / Grove | One shared supper table, welcome, quiet social time |
-| North Performance / Studio | Acoustic duo and hosted dance; amplified sound ends at approved time |
+| North Performance / Studio | One acoustic performer/dance leader; amplified sound ends at approved time |
 | Fære Zone | Low-risk paid craft/game activity, away from food service |
 | Promenade / Dark Walk | One-way lantern walk only after trip/fall and lighting inspection |
-| Forest edge / conceptual tent area | Up to eight party plots and 18–20 campers, subject to fire approval |
+| Forest edge / conceptual tent area | Up to four party plots and eight campers, subject to fire approval |
 | South/Future zone | Buffer, overflow evacuation space, and future use—not opening-night capacity |
 
 Five acres make separation possible; they do not establish legal occupancy. Preserve
@@ -195,7 +199,7 @@ guest can reach an approved exit without entering the parking flow.
 ### Overnight accommodation standard
 
 - Primitive tent camping only; no RVs and no sleeping in guest vehicles.
-- Sell no more than eight numbered party plots or 20 camper places, whichever fills first.
+- Sell no more than four numbered party plots or eight camper places, whichever fills first.
 - Guests bring tents and sleep systems; AfterFaire provides plot assignment, potable
   water, toilets, handwashing, waste, quiet-hours hosting, and morning coffee/breakfast.
 - No guest cooking, flame, generators, or unattended heat sources.
@@ -205,7 +209,8 @@ guest can reach an approved exit without entering the parking flow.
 
 ### Palmer Lake shuttle: phase two
 
-A shuttle is a growth tool only after the 30-person model repeatedly sells out.
+A shuttle is a growth tool only after the ten-person model repeatedly sells out and
+parking prevents profitable additional dates.
 It requires written pickup/parking permission in Palmer Lake, a properly insured
 commercial carrier, fixed manifests, an accessible-service plan, a missed-bus policy,
 and a clear sober-transport procedure. The initial test should be one 12–15 seat
@@ -221,42 +226,42 @@ commissions are upside, not rescue economics.
 
 | Item | Base assumption |
 |---|---:|
-| Blended admission (40% supper / 60% camp) | $152.00 |
-| **Gross operator revenue per guest** | **$152.00** |
-| Smokehouse supper food cost | ($18.00) |
-| Camp breakfast, weighted | ($4.20) |
-| Payment fee and guest supplies | ($7.86) |
-| **Contribution per guest** | **$121.94** |
+| Blended admission (40% supper / 60% camp) | $214.00 |
+| **Gross operator revenue per guest** | **$214.00** |
+| Smokehouse supper food cost | ($24.00) |
+| Camp breakfast, weighted | ($4.80) |
+| Payment fee and guest supplies | ($11.56) |
+| **Contribution per guest** | **$173.64** |
 
-Nightly fixed operating cost is held to **$1,450**:
+Nightly fixed operating cost is held to **$650** by cross-training three people and
+keeping the entertainment acoustic:
 
 | Nightly cost | Budget |
 |---|---:|
-| Musicians / dance leader | $350 |
-| Event lead and guest host | $400 |
-| Security / first-response coverage | $250 |
-| Sanitation and waste | $175 |
-| Production / power | $75 |
-| Parking marshal | $75 |
-| Insurance allocation | $125 |
-| Cleanup | $75 |
-| **Total** | **$1,450** |
+| Event lead, overnight host and incident lead | $200 |
+| Smokehouse food lead plus helper stipend | $175 |
+| Acoustic performer / dance leader | $125 |
+| Arrival marshal and cleanup | $50 |
+| Sanitation and waste | $50 |
+| Insurance allocation | $50 |
+| **Total** | **$650** |
 
-This budget assumes an acoustic-scale program, founder participation, limited setup,
-and vendor-provided food/beverage equipment. Quotes can invalidate it; the go/no-go
-model must be rerun when quotes arrive.
+This budget assumes an acoustic-scale program, substantial founder participation,
+three cross-trained workers, limited setup, and vendor-provided food/beverage
+equipment. It does not contain separately mandated security or medical staffing.
+Any such requirement must be added and may invalidate the ten-person model.
 
 ### Pre-season investment
 
 | Pre-season use | Budget |
 |---|---:|
-| Permit, legal, accounting, plan review | $1,800 |
-| Site safety, low-level lighting, wayfinding | $1,800 |
-| Insurance deposits | $1,200 |
-| Brand, web, content, launch materials | $500 |
-| Radios, check-in and payment equipment | $400 |
-| Contingency | $1,300 |
-| **Total** | **$7,000** |
+| Permit, legal, accounting, plan review | $750 |
+| Site safety, low-level lighting, wayfinding | $600 |
+| Insurance deposits | $500 |
+| Sanitation and vendor deposits | $300 |
+| Brand, ticketing and launch materials | $250 |
+| Contingency | $600 |
+| **Total** | **$3,000** |
 
 No permanent construction is assumed. Property rent or owner revenue share is also
 not included; if Merveilles charges one, it must be added before approval.
@@ -265,36 +270,37 @@ not included; if Merveilles charges one, it must be added before approval.
 
 | Scenario | Guests/night | Camp share | Season gross revenue | Season profit/(loss) | Margin |
 |---|---:|---:|---:|---:|---:|
-| Conservative | 20 | 40% | $21,760 | ($1,344) | (6%) |
-| Base | 26 | 60% | $31,616 | $6,764 | 21% |
-| Sellout | 30 | 65% | $37,440 | $11,510 | 31% |
+| Conservative | 6 | 40% | $9,312 | ($710) | (8%) |
+| Base | 8 | 60% | $13,696 | $2,913 | 21% |
+| Sellout | 10 | 70% | $17,920 | $6,395 | 36% |
 
 The base model includes no beverage commission, merchandise, or activity upcharge.
 Those are upside only. Rounded values may differ slightly from the CSV model.
 
 ### Break-even
 
-At the base mix and prices, season fixed cost is $18,600: $7,000 pre-season plus
-$11,600 across eight nights. At approximately $121.94 contribution per paid guest,
+At the base mix and prices, season fixed cost is $8,200: $3,000 pre-season plus
+$5,200 across eight nights. At approximately $173.64 contribution per paid guest,
 break-even is:
 
-`$18,600 ÷ $121.94 ÷ 8 = 19.1 guests per night`
+`$8,200 ÷ $173.64 ÷ 8 = 5.9 guests per night`
 
-Round the mathematical threshold up to **20 paid guests per night**. Because weather
-and cancellation risk are real, the launch gate remains stricter: at least **21 paid
-or deposit-backed reservations per committed night** before nonrefundable spending.
+Round the mathematical threshold up to **6 paid guests per night**. Because the
+six-person conservative mix still loses money and cancellation risk is real, the
+launch gate remains stricter: at least **7 paid or deposit-backed reservations per
+committed night** before nonrefundable spending.
 
-The base-case profit is **$6,764**, not $5,500: eight nights at 26 guests, using the
-CSV assumptions of $152 blended ticket revenue, $30.06 variable cost, $1,450 nightly
-fixed cost, and $7,000 of pre-season fixed cost. The earlier $5,500 figure was a
-rounded planning placeholder and should not be used for fundraising or approval.
+The base-case profit is **$2,913**: eight nights at eight guests, using the CSV
+assumptions of $214 blended ticket revenue, $40.36 variable cost, $650 nightly fixed
+cost, and $3,000 of pre-season fixed cost. At a ten-person sellout, the modeled season
+profit is **$6,395** before owner draw and any property rent or revenue share.
 
 ### Cash policy
 
 - Sell refundable reservation deposits first; convert them only after permit gates.
 - Maintain a separate event operating account.
 - Hold sales tax and vendor proceeds as liabilities, not available cash.
-- Keep the $1,300 contingency untouched unless a named risk occurs.
+- Keep the $600 contingency untouched unless a named risk occurs.
 - Do not add talent, decor, or a shuttle unless the base night remains profitable
   after the addition.
 
@@ -330,14 +336,14 @@ behind”** or **“let the traffic pass”** only with a reasonable route basis
 
 The project includes two original illustrations:
 
-- `assets/afterfaire-hero-v2.png` — wide 24-person garden gathering hero
+- `assets/afterfaire-hero-ten.png` — wide ten-person garden gathering hero
 - `assets/afterfaire-journey.png` — vertical social/story image of the southward journey
 
 ### Funnel
 
 1. **Waitlist:** “Choose your night / supper or camp / party size / likely driver.”
-2. **Founding circle deposit:** $20 refundable deposit applied to ticket; capped at
-   30 guests per date.
+2. **Founding circle deposit:** $40 refundable deposit applied to ticket; capped at
+   10 guests per date.
 3. **Permit conversion:** Convert deposits to tickets only after the applicable
    operating gates are cleared.
 4. **Referral:** Each buyer may invite one party before general on-sale.
@@ -357,22 +363,26 @@ The project includes two original illustrations:
 
 By February 15, 2027, require:
 
-- 120 qualified email leads;
-- 50 people choosing a specific date and ticket type;
-- at least 21 refundable deposits on each of the first two nights; and
+- 60 qualified email leads;
+- 25 people choosing a specific date and ticket type;
+- at least 7 refundable deposits on each of the first two nights; and
 - at least 50% of deposits choosing the camping tier.
 
 ## 8. Operations
 
 ### Minimum team per night
 
-- 1 event lead / incident commander
-- 1 guest host (check-in, camp, accessibility, quiet hours)
-- 1 parking marshal
-- Contract security / medically trained coverage as required
-- 1 smokehouse food lead and 1 food-service helper under the approved food plan
-- Contracted beverage personnel under their authorized operator, if alcohol is offered
-- 1–2 performers, one doubling as dance leader
+The ten-person model uses three cross-trained workers, with roles assigned in writing:
+
+- 1 event lead who also hosts overnight, accessibility, quiet hours, and incidents;
+- 1 smokehouse food lead with a limited helper stipend under the approved food plan;
+- 1 acoustic performer/dance leader who assists with guest hosting; and
+- 1 short-shift arrival marshal/cleanup worker, which may be one of the three people
+  before taking a later duty.
+
+Contracted beverage personnel operate under their authorized operator if alcohol is
+offered. Add security or medically trained coverage if required by agencies or
+insurance; do not pretend it fits inside the $650 nightly budget.
 
 No lone-worker closing. Assign one radio channel, one incident log, one missing-person
 procedure, one severe-weather shelter/evacuation decision tree, and one sober-ride plan.
@@ -439,9 +449,9 @@ August 1 as the expected season close. Replace immediately when the Faire publis
 | Sept. 30 | County and fire pre-application meetings; written issue list |
 | Oct. 31 | Operator entity, property agreement, capacity hypothesis, cancellation policy |
 | Nov. 30 | Food, beverage, insurance, sanitation, security and artist quotes |
-| Dec. 15 | Revised model; pricing locked only if break-even remains ≤20 guests |
+| Dec. 15 | Revised model; pricing locked only if break-even remains ≤6 guests |
 | Jan. 15, 2027 | Waitlist campaign and refundable founding deposits open |
-| Feb. 15 | Demand gate: 120 leads, 50 date selections, first nights at 21 deposits |
+| Feb. 15 | Demand gate: 60 leads, 25 date selections, first nights at 7 deposits |
 | Mar. 1 | Go/no-go on permits, parking, insurance, and 20%+ sellout-case margin |
 | Apr. 1 | Convert deposits only for approved dates; public on-sale |
 | May | Tabletop drills, route test, neighbor notice, staff training, site rehearsal |
@@ -455,23 +465,23 @@ August 1 as the expected season close. Replace immediately when the Faire publis
 
 - Written land-use, fire, camping, alcohol, or insurance pathway is unresolved
 - Safe guest parking supports fewer than the ticket plan and price cannot compensate
-- Break-even rises above 21 guests/night at a 30-ticket cap
+- Break-even rises above 6 guests/night at a 10-ticket cap
 - Sellout scenario margin is below 20%
-- Fewer than 21 paid/deposit-backed guests exist 21 days before a night
+- Fewer than 7 paid/deposit-backed guests exist 21 days before a night
 - Severe-weather/fire thresholds are met
 
 ### Operate if all are true
 
 - All approvals, vendor documents, insurance, and owner agreements are in hand
-- At least 21 paid guests and the required camping mix are booked
+- At least 7 paid guests and the required camping mix are booked
 - Staffing, toilets, water, emergency lane, communications, and weather plan verify
 - Cash reserve covers full refund exposure plus one canceled night
 
 ### Expand only when all are true
 
 - Four consecutive nights reach at least 90% paid occupancy
-- Contribution per guest is at least $110
-- Parking turnaways/waitlist show 12+ incremental guests on a named date
+- Contribution per guest is at least $170
+- Parking turnaways/waitlist show 6+ incremental guests on a named date
 - Guest rating is 4.5/5 or higher and neighbor/incident record is acceptable
 - Proposed shuttle or extra night increases profit after a 30% contingency
 
@@ -490,7 +500,7 @@ The weekly dashboard should show:
 - post-event rating and “would return” percentage.
 
 The north-star metric is **cash contribution per approved parking space**, because
-parking is the binding physical constraint. The base target is at least **$175 per
+parking is the binding physical constraint. The base target is at least **$275 per
 guest-vehicle credential per night** after variable costs.
 
 ## 13. Immediate decisions and unknowns
@@ -517,9 +527,9 @@ for a formal permit/application phase only when these five outputs exist:
 | Workstream | Deliverable | Pass condition |
 |---|---|---|
 | Property | Signed site-use term sheet | Dates, rent or revenue share, camping rights, parking, utilities, cancellation, and owner responsibilities are explicit |
-| Site | Scaled site and parking sketch | 30 guests, 16 guest vehicles, emergency lane, toilets, water, camp plots, exits, and weather refuge fit without assumption |
+| Site | Scaled site and parking sketch | 10 guests, 6 guest vehicles, emergency lane, toilets, water, camp plots, exits, and weather refuge fit without assumption |
 | Regulation | Agency pre-application notes | County, fire, food, camping/sanitation, alcohol, and traffic pathways have named contacts and written next steps |
-| Demand | 10-question customer survey plus waitlist landing page | At least 50 qualified responses and 25 people selecting a specific 2027 date and pass type |
+| Demand | 10-question customer survey plus waitlist landing page | At least 25 qualified responses and 12 people selecting a specific 2027 date and pass type |
 | Economics | Vendor quote sheet and revised CSV | Property cost, permits, insurance, food, labor, sanitation, and cancellation exposure are included; sellout margin remains at least 20% |
 
 ### Recommended sequence
@@ -533,12 +543,12 @@ for a formal permit/application phase only when these five outputs exist:
 4. Run the customer survey through Colorado Renaissance Faire-adjacent communities,
    performer networks, and personal referrals. Ask for a refundable expression of
    interest, not a ticket sale.
-5. Reprice the model with actual quotes. If break-even exceeds 21 guests per night,
-   remove camping or alcohol complexity before raising the ticket price.
+5. Reprice the model with actual quotes. If break-even exceeds six guests per night,
+   remove alcohol or entertainment complexity before raising the ticket price.
 
 ### The first decision meeting
 
-The first formal meeting should answer one question: **is the 30-person version
+The first formal meeting should answer one question: **is the ten-person version
 permittable and economically viable at this property?** Do not decide the shuttle,
 Sunday dates, permanent improvements, large entertainment, or merchandise until that
 answer is yes. The small version is the experiment; everything else is optional.
