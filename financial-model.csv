@@ -1,0 +1,4 @@
+scenario,nights,guests_per_night,camp_share,supper_ticket_avg,camp_ticket_avg,blended_ticket,supper_cost_per_guest,weighted_breakfast_cost,payment_and_guest_supplies,variable_cost_per_guest,fixed_cost_per_night,preseason_fixed_cost,season_gross_revenue,season_variable_cost,season_fixed_cost,season_profit,margin
+Conservative,8,20,0.40,104,184,136.00,18.00,2.80,7.35,28.15,1450,7000,21760,4504,18600,-1344,-0.0618
+Base,8,26,0.60,104,184,152.00,18.00,4.20,7.86,30.06,1450,7000,31616,6252,18600,6764,0.2139
+Sellout,8,30,0.65,104,184,156.00,18.00,4.55,7.99,30.54,1450,7000,37440,7330,18600,11510,0.3074
